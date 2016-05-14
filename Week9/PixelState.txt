@@ -1,0 +1,47 @@
+132 512 California
+118 194 Oregon
+138 96 Wahsington
+310 280 Idaho
+212 436 Nevada
+350 456 Utah
+324 628 Arizona
+486 332 Wyoming
+522 476 Colorado
+486 632 New Mexico
+678 190 North Dakota
+664 298 South Dakota
+684 402 Nebraska
+712 506 Kansas
+740 618 Oklahoma
+682 768 Texas
+900 790 Lousiana
+972 714 Mississippi
+876 644 Arkansas
+876 520 Missouri
+852 400 Iowa
+816 246 Minnesota
+940 288 Wisconsin
+966 456 Illinois
+1090 528 Kentucky
+1048 594 Tennessee
+1050 708 Alabama
+1146 694 Georgia
+1228 848 Florida
+1218 640 South Carolina
+1254 572 North Carolina
+1262 504 Virginia
+1190 466 West Virginia
+1300 406 Maryland
+1338 438 Delaware
+1042 438 Indiana
+1136 418 Ohio
+1260 380 Pennsylvania
+1304 288 New York
+1384 322 Rhode Island
+1400 288 Massachusetts
+1366 234 Vermont
+1398 246 New hampshire
+1430 178 Maine
+510 908 Hawaii
+194 840 Alaska
+1054 282 Michigan
